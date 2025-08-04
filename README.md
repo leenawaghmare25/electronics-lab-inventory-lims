@@ -70,25 +70,5 @@ This is a collaborative project. If you’d like to contribute:
 
 ---
 
-## 📌 License
-
-This project is licensed under the MIT License.  
-Feel free to use, adapt, or build on top of it.
-
----
-
-## 🔗 Live Link / Demo
-
-_(Add a deployment link here once hosted — e.g., Netlify, Vercel, etc.)_
-
----
-
-## ✍️ Author
-
-**Team A-1 | Launchpad Cohort**  
-For academic and project inquiries, contact us through GitHub Issues.
-
----
-
 We’ve kept the folder structure simple and clean:
 

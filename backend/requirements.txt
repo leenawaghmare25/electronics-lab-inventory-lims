@@ -1,0 +1,36 @@
+# Core Flask framework
+Flask==3.0.0
+
+# CORS support for frontend communication
+Flask-Cors==4.0.0
+
+# SQLAlchemy ORM for database operations
+Flask-SQLAlchemy==3.1.1
+
+# Database migrations (for future use)
+Flask-Migrate==4.0.5
+
+# Environment variable management
+python-dotenv==1.0.0
+
+# Input validation (for future use)
+marshmallow==3.20.1
+flask-marshmallow==0.15.0
+
+# JWT authentication (for future use)
+PyJWT==2.8.0
+
+# Password hashing (for future use)
+Werkzeug==3.0.1
+
+# Development and testing dependencies
+pytest==7.4.3
+pytest-flask==1.3.0
+coverage==7.3.2
+
+# Code formatting and linting
+black==23.11.0
+flake8==6.1.0
+
+# Type hints support
+mypy==1.7.1
